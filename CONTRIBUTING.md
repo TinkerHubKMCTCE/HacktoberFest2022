@@ -2,7 +2,7 @@
 
 #### Guidlines:
 
-##### How can i contribute to the repository? #####
+##### How can I contribute to this repository? #####
 
 * Create a issue in issue tab with "hacktoberfest" tag. <br />
 * place your projects in assigned domain folders.
