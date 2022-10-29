@@ -1,0 +1,6 @@
+#hacktoberfest
+
+Guidlines:
+
+Accepted projects:
+
