@@ -1,2 +1,5 @@
 # HacktoberFest2022
-Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first-time contributors. #hacktoberfest22
+
+## What's HacktoberFest 2022
+
+Hacktoberfest is a month-long challenge. It happens every year in the month of October. Hacktoberfest is open to everyone and it marks the celebration of Open Source. It's the biggest Open Source event that encourages newbies to participate in Open Source and create their 1st meaningful PR.
