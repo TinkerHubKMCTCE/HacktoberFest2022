@@ -28,7 +28,7 @@ switch op {
 			fmt.Printf("%f %s %f = %f", num1, op, num2, num1+num2)
 		}
 	default:
-		fmt.Println("Invalid operator")
+		fmt.Println("Invalid operators")
 
 	}
 }
