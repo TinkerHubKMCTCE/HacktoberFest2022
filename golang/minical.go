@@ -14,3 +14,21 @@ func main() {
 
 	fmt.Print("Enter the operator")
 	fmt.Scanln(&op)
+switch op {
+	case "+":
+		fmt.Printf("%f %s %f = %f", num1, op, num2, num1+num2)
+	case "-":
+		fmt.Printf("%f %s %f = %f", num1, op, num2, num1-num2)
+	case "*":
+		fmt.Printf("%f %s %f = %f", num1, op, num2, num1*num2)
+	case "/":
+		if num2 == 0.0 {
+			fmt.Println("Divide by zero")
+		} else {
+			fmt.Printf("%f %s %f = %f", num1, op, num2, num1+num2)
+		}
+	default:
+		fmt.Println("Invalid operator")
+
+	}
+}
